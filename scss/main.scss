@@ -1,7 +1,18 @@
-$deep-grey: #282c34;
-$white-text: rgba(255,255,255, .89);
+$grey-text: #222;
+$white: #fff;
+$light-pink: #FABED6;
+$purple: #8A79C0;
+$deep-purple: #322640;
+$turq: #4E9AA5;
+$font-stack: 'mada', sans-serif;
+$font-size-small: 16px;
+$font-size-med: 24px;
+$font-size-big: 36px;
+
+
 
 body {
-  background-color: $deep-grey;
-  color: $white-text; 
+  background-color: $white;
+  color: $deep-purple;
+  font-family: 100% $font-stack;
 }
